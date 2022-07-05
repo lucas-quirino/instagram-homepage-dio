@@ -16,6 +16,21 @@ body {
     justify-content: center;
 }
 
+a:link {
+    color:inherit
+}
+
+a:active {
+    color:inherit
+}
+
+a:visited {
+    color:inherit
+}
+a:hover {
+    color:
+}
+
 .wrapper {
     display: flex;
     justify-content: space-around;
@@ -112,12 +127,13 @@ input{
     font-weight: bold;
 }
 
-.fb-img {
+.fb-img a{
     font-size: 12px;
 }
 
-.fb-text {
+.fb-text a{
     font-size: 10px;
+    color: #405f7a;
 }
 
 .facebook-logo {
@@ -139,7 +155,7 @@ input{
     height: 10vh;
 }
 
-.sign-up {
+.register a{
     color: rgb(50, 172, 248);
     font-weight: bold;
 }
