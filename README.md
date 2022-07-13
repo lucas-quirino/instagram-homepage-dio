@@ -1,8 +1,7 @@
-# Creating a single web page with light on/off effect - VueLamp
+# Recreating the login Instagram page
 ## Hello guys!
 
-Creating a page with CSS to give the light on or off effect.
-Use the side button to apply the effect.
+In this challenge the objective was to reproduce the instagram web login page.
 
 </br>
 
@@ -10,9 +9,9 @@ The technologies worked were:
 
 </br>
 
-* JS
 * HTML5
 * CSS 3
+* CSS Flexbox
 * Git/GitHub
 
 </br>
